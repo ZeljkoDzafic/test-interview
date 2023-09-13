@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "doctrine/orm": "^2.16",
+        "doctrine/cache": "^2.2"
+    }
+}
