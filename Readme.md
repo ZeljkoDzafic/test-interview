@@ -27,6 +27,8 @@ node menu/menu.js
 I have stared to work on sql / ORM implementation but it would take me to much of time
 
 It has been broken but it gives some ideas
+cd menu/PHPwithORM
+composer install
 php -S localhost:8000 -t menu/PHPwithORM
 
 
